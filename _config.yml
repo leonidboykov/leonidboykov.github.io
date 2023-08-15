@@ -1,0 +1,9 @@
+# Disable default theme.
+theme: null
+
+# Enable pretty permalinks.
+permalink: pretty
+
+# Enable required plugins.
+plugins:
+  - jekyll-redirect-from
